@@ -1,2 +1,10 @@
-# Add entries here for files that should not be in source code
-.DS_Store
+# Ignore Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore virtual environments
+.venv/
+.env/
