@@ -80,9 +80,14 @@ After verifying the package works, proceed to update the shared environment file
 
 After installing new packages, re-export the environment so others can stay in sync.
 
+
 ```Bash
+# macOS 
 conda env export --from-history --no-builds > environment.yml
-sed -i '' '/^prefix:/d' environment.yml  # macOS only — removes system path
+sed -i '' '/^prefix:/d' environment.yml  
+
+# PC 
+conda env export --from-history --no-builds | Select-String -NotMatch '^prefix:' | Out-File -Encoding utf8 environment.yml
 ```
 
 Then commit and push your changes to GitHub:
