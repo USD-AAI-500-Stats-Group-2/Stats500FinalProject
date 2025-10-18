@@ -8,3 +8,8 @@ These can be found in the directories erika/ joe/, and paul/.  Each of these jup
 
 ### Environment Setup
 For detailed setup and collaboration steps, see the [Environment Setup Guide](./EnvironmentSetup.md)
+
+### Recorded Presentation
+A presentation was recorded demonstrating processes, tests, analyses, and other conclusions based on the notebooks found in this repo.
+
+This file can be found at "Team 2_Slides.pdf".
