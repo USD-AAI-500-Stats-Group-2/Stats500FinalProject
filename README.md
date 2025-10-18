@@ -7,9 +7,10 @@ This project is a part of the AAI-500 course in the Applied Artificial Intellige
 ## Installation
 
 To use this project, first clone the repo on your device using the command below:
+```
 git init
 git clone https://github.com/USD-AAI-500-Stats-Group-2/Stats500FinalProject.git
-
+```
 
 ## Project Objective
 The main purpose of this project is to examine how lifestyle habits and demographic factors influence student academic performance. By modeling relationships between behavioral and demographic variables and academic outcomes, this analysis aims to identify which factors most strongly shape student success. The findings from this work can provide valuable insights for students, educators, and policymakers seeking improve student achievement through effective strategies.
