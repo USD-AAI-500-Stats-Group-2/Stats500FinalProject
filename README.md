@@ -27,10 +27,10 @@ Python
 ## Project Description 
 The dataset is a synthetic dataset representing 1,000 students across 14 behavioral and demographic factors, along with their final exam score. This can be found in the /data directory.  It is in CSV format.
 
-The following research questions are addressed in this project:
-RQ1: What patterns of association exist among students’ habits and background factors?
-RQ2: How do student habits and demographic variables affect exam scores?
-RQ3: What factors are most influential in determining whether a student achieves a passing versus failing exam grade?
+The following research questions are addressed in this project:   
+RQ1: What patterns of association exist among students’ habits and background factors?   
+RQ2: How do student habits and demographic variables affect exam scores?   
+RQ3: What factors are most influential in determining whether a student achieves a passing versus failing exam grade?   
 
 ## Environment Setup
 For detailed setup and collaboration steps, see the [Environment Setup Guide](./EnvironmentSetup.md)
